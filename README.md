@@ -2,9 +2,10 @@
 To make the x gates sits in the first moment and all hadamard gates [1] go into the next moment
 
 1) A Hadamard gate is a quantum logic gate that acts on a single qubit. It is one of the most important gates in quantum computing, as it is used to create superposition states, which are essential for many quantum algorithms.
-2)Quantum circuit are collection of moment were each moment contains operations of the qubits.
+2)Quantum circuit are collection of moment were each moment contains operations of the qubits image{}.
 
 ![image](https://user-images.githubusercontent.com/104602972/232634476-6435db3c-4964-41a9-9588-3ee9e933dbd6.png)
+
 
 The Hadamard gate can be represented by the following matrix:
 
