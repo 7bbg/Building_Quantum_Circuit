@@ -5,7 +5,7 @@ To make the x gates sits in the first moment and all hadamard gates [1] go into 
 2)Quantum circuit are collection of moment were each moment contains operations of the qubits image{}.
 
 ![image](https://user-images.githubusercontent.com/104602972/232634476-6435db3c-4964-41a9-9588-3ee9e933dbd6.png)
-
+image source(https://quantumai.google/static/cirq/images/CircuitMomentOperation.png)
 
 The Hadamard gate can be represented by the following matrix:
 
