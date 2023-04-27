@@ -7,7 +7,7 @@ To make the x gates sits in the first moment and all hadamard gates [1] go into 
 ![image](https://user-images.githubusercontent.com/104602972/232634476-6435db3c-4964-41a9-9588-3ee9e933dbd6.png)
 image source(https://quantumai.google/static/cirq/images/CircuitMomentOperation.png)
 
-The Hadamard gate can be represented by the following matrix:
+### The Hadamard gate can be represented by the following matrix:
 
 H = 1/sqrt(2) * [[1, 1], [1, -1]]
 This matrix can be interpreted as follows:
